@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_standard_user
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Swag Labs/h3_Epic sadface Username and password do no_0e8909'), 
     'Epic sadface: Username and password do not match any user in this service')
 
-WebUI.closeBrowser()
-
